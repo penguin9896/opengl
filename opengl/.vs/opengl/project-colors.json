@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc333aed-2e6c-4c46-bcd3-1bb1aff72602": {
+      "ProjectGuid": "fc333aed-2e6c-4c46-bcd3-1bb1aff72602",
+      "DisplayName": "opengl",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
