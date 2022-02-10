@@ -1,2 +1,2 @@
 ﻿  Application.cpp
-  opengl.vcxproj -> C:\dev\opengl\opengl\Debug\opengl.exe
+C:\dev\opengl\opengl\opengl\src\Application.cpp(48,55): error C2198: 'PFNGLBUFFERDATAPROC': too few arguments for call
